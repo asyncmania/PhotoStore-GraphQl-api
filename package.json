@@ -1,0 +1,15 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Josiah Ilesanmi <ilesanmi.josiah@gmail.com>",
+  "license": "MIT",
+    "scripts": {
+    "start": "nodemon -e js,json,graphql"
+  },
+  "dependencies": {
+    "apollo-server": "2.18.2",
+    "graphql": "15.3.0",
+    "nodemon": "2.0.5"
+  }
+}
